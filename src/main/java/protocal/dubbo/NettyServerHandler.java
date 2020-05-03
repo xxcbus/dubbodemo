@@ -3,7 +3,7 @@ package protocal.dubbo;
 import framework.Invocation;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
-import provider.LocalRegister;
+import register.LocalRegister;
 
 import java.lang.reflect.Method;
 

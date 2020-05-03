@@ -5,6 +5,7 @@ import framework.ProtocalFactory;
 import framework.URL;
 import provider.api.HelloService;
 import provider.impl.HelloServiceImpl;
+import register.LocalRegister;
 import register.RemoteRegister;
 
 /**

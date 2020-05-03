@@ -5,7 +5,7 @@ import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.apache.commons.io.IOUtils;
-import provider.LocalRegister;
+import register.LocalRegister;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

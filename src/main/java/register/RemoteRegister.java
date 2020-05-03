@@ -23,6 +23,7 @@ public class RemoteRegister {
 
     public static List<URL> get(String interfaceName){
         return getFile().get(interfaceName);
+//        return REGISTER.get(interfaceName);
     }
 
     public static URL getRandom(String interfaceName){
